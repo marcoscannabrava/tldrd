@@ -1,1 +1,5 @@
-jupyter lab
+icecream==2.1.0
+jupyterlab==3.0.14
+tensorflow==2.4.1
+torch==1.8.1+cpu
+youtube-transcript-api==0.4.1
